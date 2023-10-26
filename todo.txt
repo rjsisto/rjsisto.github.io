@@ -1,0 +1,2 @@
+- change 'about' page (write a new bio about myself)
+- incorporate my projects into the blogs page
