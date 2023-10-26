@@ -1,0 +1,57 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Robert Sisto
+    - name: Date of Birth
+      value: 7th October 2000
+
+- title: Education
+  type: time_table
+  contents:
+    - title: B.A.
+      institution: Loyola University Chicago
+      year: 2023
+      description:
+        - Major in Data Science
+        - Minor in History
+        - GPA of 3.52
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Programming Instructor
+      institution: AYEI
+      location: Appleton, WI
+      year: 2023
+      description:
+        - Taught Middle-School and High-School aged children the basics of Python
+        - Worked with another instructor in developing a lesson plan for the month-long course
+        - Did some one-on-one sessions to help further some students understanding of programming
+
+    - title: Data Science Consultant Internship
+      institution: Loyola University Chicago
+      location: Chicago, IL
+      year: 2023
+      description:
+        - Worked with an outside consultant through a class
+        - Cleaned and analyzed data in R and Python
+        - Created a daily productivity model in Python that predicts the warehouse productivity on a given day
+        - Presented findings and models with client and classmates using various tools, including creating a Dash App
+
+    - title: Lifeguard & Swim Instructor
+      institution: YMCA
+      location: Appleton, WI
+      year: 2017 - 2022
+      description:
+        - Trained new lifeguards and swim instructors
+        - Mediated/negotiated between management and staff regarding workload, schedules and various other issues
+        - Conducted swim lessons for school age children
+
+    - title: Lifeguard & Swim Instructor
+      institution: YMCA
+      location: Plainville, CT
+      year: 2016-2017
+      description:
+        - Conducted swim lessons for school age children
+        - Interacted with patrons and ensured their safety and comfort
