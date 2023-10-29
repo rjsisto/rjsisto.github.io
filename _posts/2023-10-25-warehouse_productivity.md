@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: distill
 title: Predicting Productivity In Warehouses
-date: 2023-10-25 17:39:00
 description: project made to predict the productivity of warehouse workers
-redirect: /assets/html/report_1.html
----
+date: 2023-10-29
+featured: true
 
-Redirecting to another page.
+---
+## Predicting Warehouse Productivity
+
+<div class="l-page">
+  <iframe src="{{ '/assets/html/report_1.html' | relative_url }}" frameborder='0' scrolling='yes' height = "800px" width="100%" style="border: 1px dashed grey;"></iframe>
+</div>
