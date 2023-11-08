@@ -14,7 +14,7 @@ toc:
     subsections:
       - name: Plotting Different Types of Patients
   - name: Conclusion
-
+  - name: Appendix
 ---
 ## Overview
 
@@ -146,7 +146,7 @@ types of patients can be seen below
 
 ------------------------------------------------------------------------
 
-## Conclusions
+## Conclusion
 
 In conclusion, we were able to use R to transform the clinic data into
 usable map data in order to map where the clinics patients are coming
